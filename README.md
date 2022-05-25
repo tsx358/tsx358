@@ -1,21 +1,12 @@
-### Hi there 👋
+## Hello there! 👋
 
-<!--
-**tsx358/tsx358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on: studying for finals :) <br>
+🌱 I’m currently learning: at school  <br>
+💬 Ask me about: anything! <br>
+📫 How to reach me: by github <br>
+😄 Pronouns: she/her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hello!
 
 Welcome to my profile! 
 
