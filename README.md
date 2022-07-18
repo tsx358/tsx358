@@ -1,7 +1,7 @@
 ## Hello there! 👋
 
 
-🔭 I’m currently working on: studying for finals :) <br>
+🔭 I’m currently working on: stuff :) <br>
 🌱 I’m currently learning: at school  <br>
 💬 Ask me about: anything! <br>
 📫 How to reach me: by github <br>
