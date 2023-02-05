@@ -19,6 +19,7 @@ Fast Facts: https://scio-fastfacts-practice-site.vercel.app/
 **Other:** <br>
 Physics? (not finished): https://wittyrawpublishing.txing2020.repl.co/ 
 
+## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=tsx358">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsx358">
 https://skyline.github.com/tsx358/2022
