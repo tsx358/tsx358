@@ -18,10 +18,10 @@ Fast Facts: https://scio-fastfacts-practice-site.vercel.app/
 
 **Other:** <br>
 Personal site (as of now?): https://tinaxing.netlify.app/ <br>
-Physics? (not finished): https://wittyrawpublishing.txing2020.repl.co/  <br>
+Physics? (not finished): https://wittyrawpublishing.tshxin.repl.co/  <br>
 Number Guessing: https://number-guessing-ten.vercel.app/ <br>
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=txing">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=txing">
-https://skyline.github.com/tsx358/2022
+https://skyline.github.com/txing/2022
