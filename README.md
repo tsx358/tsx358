@@ -17,10 +17,11 @@ Dynamic Planet (Freshwater): https://dyp-freshwater-learn.vercel.app/ <br>
 Fast Facts: https://scio-fastfacts-practice-site.vercel.app/
 
 **Other:** <br>
+Personal site (as of now?): https://tinaxing.netlify.app/ <br>
 Physics? (not finished): https://wittyrawpublishing.txing2020.repl.co/  <br>
 Number Guessing: https://number-guessing-ten.vercel.app/ <br>
 
 ## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=tsx358">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsx358">
+<img src="https://github-readme-stats.vercel.app/api?username=txing">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=txing">
 https://skyline.github.com/tsx358/2022
