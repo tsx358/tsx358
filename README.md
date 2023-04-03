@@ -16,10 +16,11 @@ Chiang Kai-Shek and Mao ZeDong: https://tx-ss8hfinal-chiangandmao.vercel.app/
 Dynamic Planet (Freshwater): https://dyp-freshwater-learn.vercel.app/ <br>
 Fast Facts: https://scio-fastfacts-practice-site.vercel.app/
 
-**Other:** <br>
-Personal site (as of now?): https://tinaxing.netlify.app/ <br>
+**Funky:** <br>
+Personal site?: https://tinaxing.netlify.app/ <br>
 Physics? (not finished): https://wittyrawpublishing.tshxin.repl.co/  <br>
 Number Guessing: https://number-guessing-ten.vercel.app/ <br>
+My Melodance: https://my-melodance.tshxin.repl.co/ <br> 
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=txing">
