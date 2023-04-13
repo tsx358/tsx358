@@ -18,9 +18,12 @@ Fast Facts: https://scio-fastfacts-practice-site.vercel.app/
 
 **Funky:** <br>
 Personal site?: https://tinaxing.netlify.app/ <br>
-Physics? (not finished): https://wittyrawpublishing.tshxin.repl.co/  <br>
+Physics? (not finished): https://wittyrawpublishing.tshxin.repl.co/  <br> 
+
+**Fun** <br>
 Number Guessing: https://number-guessing-ten.vercel.app/ <br>
 My Melodance: https://my-melodance.tshxin.repl.co/ <br> 
+Icon Creator: https://iconscratchmakertest.tshxin.repl.co/ <br>
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=txing">
