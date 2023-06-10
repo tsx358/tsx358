@@ -15,11 +15,7 @@ Chiang Kai-Shek and Mao ZeDong: https://tx-ss8hfinal-chiangandmao.vercel.app/
 
 **Science Olympiad:** <br>
 Dynamic Planet (Freshwater): https://dyp-freshwater-learn.vercel.app/ <br>
-Fast Facts: https://scio-fastfacts-practice-site.vercel.app/
-
-**Funky:** <br>
-Personal site?: https://tinaxing.netlify.app/ <br>
-Physics? (not finished): https://wittyrawpublishing.tshxin.repl.co/  <br> 
+Fast Facts: https://scio-fastfacts-practice-site.vercel.app/ <br>
 
 **Fun** <br>
 Number Guessing: https://number-guessing-ten.vercel.app/ <br>
