@@ -26,6 +26,6 @@ My Melodance: https://my-melodance.tshxin.repl.co/ <br>
 
 
 ## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=txing">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=txing">
-https://skyline.github.com/txing/2022
+<img src="https://github-readme-stats.vercel.app/api?username=tsxing">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsxing">
+https://skyline.github.com/tsxing/2022
