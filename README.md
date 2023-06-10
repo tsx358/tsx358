@@ -11,7 +11,10 @@ Check this out: https://weathosaurus.vercel.app/
 
 ## "Projects" <br>
 **School:** <br>
-Chiang Kai-Shek and Mao ZeDong: https://tx-ss8hfinal-chiangandmao.vercel.app/
+Chiang Kai-Shek and Mao ZeDong: https://tx-ss8hfinal-chiangandmao.vercel.app/ <br>
+
+**Applications?** <br>
+Weathosaurus: https://weathosaurus.vercel.app/ <br>
 
 **Science Olympiad:** <br>
 Dynamic Planet (Freshwater): https://dyp-freshwater-learn.vercel.app/ <br>
@@ -20,7 +23,7 @@ Fast Facts: https://scio-fastfacts-practice-site.vercel.app/ <br>
 **Fun** <br>
 Number Guessing: https://number-guessing-ten.vercel.app/ <br>
 My Melodance: https://my-melodance.tshxin.repl.co/ <br> 
-Weathosaurus: https://weathosaurus.vercel.app/ <br>
+
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=txing">
