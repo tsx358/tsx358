@@ -3,7 +3,7 @@
 
 🔭 I’m in 9th grade. <br>
 🌱 I’m learning: at school.  <br>
-🧩 Coding languages: Html, CSS, JS, Python, tiny-bit-of-C++ (still learning...)<br>
+🧩 Coding languages: Html, CSS, JS, Python, some C++ (still learning...)<br>
 📫 How to reach me: tinaxing2020@gmail.com <br>
 
 Welcome to my profile!  <br>
@@ -20,7 +20,6 @@ Fast Facts: https://scio-fastfacts-practice-site.vercel.app/ <br>
 **Fun** <br>
 Number Guessing: https://number-guessing-ten.vercel.app/ <br>
 My Melodance: https://my-melodance.tshxin.repl.co/ <br> 
-Icon Creator: https://iconscratchmakertest.tshxin.repl.co/ <br>
 Weathosaurus: https://weathosaurus.vercel.app/ <br>
 
 ## Stats
