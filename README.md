@@ -4,9 +4,10 @@
 🔭 I’m in 9th grade. <br>
 🌱 I’m learning: at school.  <br>
 🧩 Coding languages: Html, CSS, JS, Python, tiny-bit-of-C++ (still learning...)<br>
-📫 How to reach me: by github or discord <br>
+📫 How to reach me: tinaxing2020@gmail.com <br>
 
 Welcome to my profile!  <br>
+Check this out: https://weathosaurus.vercel.app/
 
 ## "Projects" <br>
 **School:** <br>
@@ -24,6 +25,7 @@ Physics? (not finished): https://wittyrawpublishing.tshxin.repl.co/  <br>
 Number Guessing: https://number-guessing-ten.vercel.app/ <br>
 My Melodance: https://my-melodance.tshxin.repl.co/ <br> 
 Icon Creator: https://iconscratchmakertest.tshxin.repl.co/ <br>
+Weathosaurus: https://weathosaurus.vercel.app/ <br>
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=txing">
