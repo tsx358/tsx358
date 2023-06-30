@@ -10,7 +10,7 @@ Check this out (simple weather model): https://weathosaurus.vercel.app/
 
 ## "Projects" <br>
 **School:** <br>
-Chiang Kai-Shek and Mao ZeDong: https://tx-ss8hfinal-chiangandmao.vercel.app/ <br>
+Chiang Kai-Shek and Mao ZeDong (8th grade S.S. final): https://tx-ss8hfinal-chiangandmao.vercel.app/ <br>
 
 **Applications?** <br>
 Weathosaurus: https://weathosaurus.vercel.app/ <br>
