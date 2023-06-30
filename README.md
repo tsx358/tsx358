@@ -1,13 +1,12 @@
 # Hello there! 👋
 
 
-🔭 I’m in 9th grade. <br>
-🌱 I’m learning: at school.  <br>
+🔭 High school. <br>
 🧩 Coding languages: Html, CSS, JS, Python, some C++ (still learning...)<br>
 📫 How to reach me: tinaxing2020@gmail.com <br>
 
 Welcome to my profile!  <br>
-Check this out: https://weathosaurus.vercel.app/
+Check this out (simple weather model): https://weathosaurus.vercel.app/
 
 ## "Projects" <br>
 **School:** <br>
