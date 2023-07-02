@@ -2,7 +2,7 @@
 
 
 🔭 High school. <br>
-🧩 Coding languages: Html, CSS, JS, Python, some C++ (still learning...)<br>
+🧩 Coding languages: Html, CSS, JS, Python, some C++, very little C# (Unity)<br>
 📫 How to reach me: tinaxing2020@gmail.com <br>
 
 Welcome to my profile!  <br>
