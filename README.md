@@ -2,8 +2,8 @@
 
 
 🔭 High school. <br>
-🧩 Coding languages: Html, CSS, JS, Python, some C++, very little C# (Unity)<br>
-📫 How to reach me: tinaxing2020@gmail.com <br>
+🧩 Html, CSS, JS, Python, some C++, very little C# (Unity)<br>
+📫 tinaxing2020@gmail.com <br>
 
 Welcome to my profile!  <br>
 Check this out (simple weather model): https://weathosaurus.vercel.app/
