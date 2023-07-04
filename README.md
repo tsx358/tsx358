@@ -12,15 +12,15 @@ Check this out (simple weather model): https://weathosaurus.vercel.app/
 Chiang Kai-Shek and Mao ZeDong (8th grade S.S. final): https://tx-ss8hfinal-chiangandmao.vercel.app/ <br> (2022)
 
 **Applications?** <br>
-Weathosaurus: https://weathosaurus.vercel.app/ <br> (2023) 
+Weathosaurus: https://weathosaurus.vercel.app/ (2023) <br>
 
 **Science Olympiad:** <br>
-Dynamic Planet (Freshwater): https://dyp-freshwater-learn.vercel.app/ <br> (2022)
-Fast Facts: https://scio-fastfacts-practice-site.vercel.app/ <br> (2022) 
+Dynamic Planet (Freshwater): https://dyp-freshwater-learn.vercel.app/  (2022) <br>
+Fast Facts: https://scio-fastfacts-practice-site.vercel.app/ (2022) <br>
 
 **Fun** <br>
-Number Guessing: https://number-guessing-ten.vercel.app/ <br> (2021)
-My Melodance: https://my-melodance.tshxin.repl.co/ <br>  (2023)
+Number Guessing: https://number-guessing-ten.vercel.app/ (2021) <br>
+My Melodance: https://my-melodance.tshxin.repl.co/  (2023) <br>
 
 
 ## Stats
