@@ -2,7 +2,7 @@
 
 
 🔭 High school. <br>
-🗣️ Chinese and English (fluent) <br>
+🗣️ Chinese and English (both fluent/native) <br>
 🧩 Html, CSS, JS, Python, some C++, very little C# (Unity)<br>
 📫 tinaxing2020@gmail.com <br>
 
