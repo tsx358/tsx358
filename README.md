@@ -5,7 +5,7 @@
 🧩 Html, CSS, JS, Python, some C++, very little C# (Unity)<br>
 📫 tinaxing2020@gmail.com <br>
 
-Check this out (simple weather model): https://weathosaurus.vercel.app/
+Check this out (simple weather model with @bdcl): https://weathosaurus.vercel.app/
 
 ## "Projects" <br>
 **School:** <br>
