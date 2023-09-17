@@ -8,7 +8,7 @@
 
 Check these out! <br>
 Weathosaurus with @bdcl: https://weathosaurus.vercel.app/ <br>
-Geolosaurus:  https://weathosaurus.vercel.app/
+Geolosaurus:  https://geolosaurus.vercel.app/
 
 ## "Projects" <br>
 **School:** <br>
