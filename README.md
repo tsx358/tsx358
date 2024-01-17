@@ -6,6 +6,10 @@
 🧩 Html, CSS, JS, Python, some C++, very little C# (Unity)<br>
 📫 tinaxing2020@gmail.com <br>
 
+<br>
+Scratch at Emma Clark Notes: https://www.flipsnack.com/C67A85AA9F7/scratch-at-emma-clark-notes/full-view.html
+<br>
+
 Check these out! <br>
 Weathosaurus with @bdcl: https://weathosaurus.vercel.app/ <br>
 Geolosaurus:  https://geolosaurus.vercel.app/
