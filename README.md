@@ -8,7 +8,9 @@
 
 Check these out! <br>
 Weathosaurus: https://weathosaurus.vercel.app/ <br>
-Geolosaurus:  https://geolosaurus.vercel.app/
+Geolosaurus:  https://geolosaurus.vercel.app/ <br>
+Typosaurus: https://typosaurus.vercel.app/  <br>
+Quizaurus: https://quizaurus.vercel.app/
 
 ## "Projects" <br>
 **School:** <br>
